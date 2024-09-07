@@ -1,0 +1,7 @@
+C:\Users\karen\source\repos\SD 725-Software Design\MSSD 725 The Maxie Inn Reservations\MSSD 725 The Maxie Inn Reservations\bin\Debug\MSSD 725 The Maxie Inn Reservations.exe.config
+C:\Users\karen\source\repos\SD 725-Software Design\MSSD 725 The Maxie Inn Reservations\MSSD 725 The Maxie Inn Reservations\bin\Debug\MSSD 725 The Maxie Inn Reservations.exe
+C:\Users\karen\source\repos\SD 725-Software Design\MSSD 725 The Maxie Inn Reservations\MSSD 725 The Maxie Inn Reservations\bin\Debug\MSSD 725 The Maxie Inn Reservations.pdb
+C:\Users\karen\source\repos\SD 725-Software Design\MSSD 725 The Maxie Inn Reservations\MSSD 725 The Maxie Inn Reservations\obj\Debug\MSSD 725 The Maxie Inn Reservations.csproj.AssemblyReference.cache
+C:\Users\karen\source\repos\SD 725-Software Design\MSSD 725 The Maxie Inn Reservations\MSSD 725 The Maxie Inn Reservations\obj\Debug\MSSD 725 The Maxie Inn Reservations.csproj.CoreCompileInputs.cache
+C:\Users\karen\source\repos\SD 725-Software Design\MSSD 725 The Maxie Inn Reservations\MSSD 725 The Maxie Inn Reservations\obj\Debug\MSSD 725 The Maxie Inn Reservations.exe
+C:\Users\karen\source\repos\SD 725-Software Design\MSSD 725 The Maxie Inn Reservations\MSSD 725 The Maxie Inn Reservations\obj\Debug\MSSD 725 The Maxie Inn Reservations.pdb
