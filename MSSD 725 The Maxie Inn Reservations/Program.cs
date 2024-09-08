@@ -31,8 +31,7 @@ namespace MSSD_725_The_Maxie_Inn_Reservations
             myDogInformation.Confirmation();
 
             myDogInformation.CalculateTotalCost();
-            Console.WriteLine($"\nThe total cost of your reservation is: ${myDogInformation.CalculateTotalCost()}");
-
+            Console.WriteLine($"\nThe total cost of your reservation of {myDogInformation.Duration()} days is ${myDogInformation.CalculateTotalCost()}.");
 
             Console.ReadLine();
         }

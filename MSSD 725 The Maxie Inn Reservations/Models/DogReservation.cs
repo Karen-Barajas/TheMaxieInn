@@ -60,7 +60,7 @@ namespace MSSD_725_The_Maxie_Inn_Reservations.Models
         //Display confirmation of reservation
         public virtual void Confirmation()
         {
-            Console.WriteLine($"\nThank you, {OwnerName} for your reservation for {DogName} at The Maxie Inn. You have booked a stay at the Maxie Inn from {CheckInDate.ToShortDateString()} to {CheckOutDate.ToShortDateString()}. A confirmation email will be sent to {Email} soon. We are looking forward to {DogName}'s stay with us!");
+            Console.WriteLine($"\nThank you, {OwnerName} for your reservation for {DogName} at The Maxie Inn. You have booked a stay at The Maxie Inn from {CheckInDate.ToShortDateString()} to {CheckOutDate.ToShortDateString()}. A confirmation email will be sent to {Email} soon. We are looking forward to {DogName}'s stay with us!");
         }
     }
 
