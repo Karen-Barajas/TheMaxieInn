@@ -43,15 +43,15 @@ namespace MSSD_725_The_Maxie_Inn_Reservations
                 if (prop.PropertyType == typeof(DateTime))
                 {
                     DateTime dateValue = (DateTime)prop.GetValue(myDogInformation);
+                    
                     string formattedData = dateValue.ToString("MM/dd/yyyy");
 
                     Console.WriteLine($"\n{prop.Name}: {formattedData}");
                 }
-            else { 
-                   
-                Console.WriteLine($"\n{prop.Name}: {prop.GetValue(myDogInformation)}");
                 
-            }
+                else { 
+                   Console.WriteLine($"\n{prop.Name}:       {prop.GetValue(myDogInformation)}");        
+                }
 
             Console.ReadLine();
         }

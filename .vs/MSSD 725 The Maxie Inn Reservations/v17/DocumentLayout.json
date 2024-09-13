@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\karen\\source\\repos\\SD 725-Software Design\\MSSD 725 The Maxie Inn Reservations\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BB4688A3-E82B-4F40-8FB6-87ED7EB7F768}|MSSD 725 The Maxie Inn Reservations\\MSSD 725 The Maxie Inn Reservations.csproj|C:\\Users\\karen\\source\\repos\\SD 725-Software Design\\MSSD 725 The Maxie Inn Reservations\\mssd 725 the maxie inn reservations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BB4688A3-E82B-4F40-8FB6-87ED7EB7F768}|MSSD 725 The Maxie Inn Reservations\\MSSD 725 The Maxie Inn Reservations.csproj|c:\\users\\karen\\source\\repos\\sd 725-software design\\mssd 725 the maxie inn reservations\\mssd 725 the maxie inn reservations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB4688A3-E82B-4F40-8FB6-87ED7EB7F768}|MSSD 725 The Maxie Inn Reservations\\MSSD 725 The Maxie Inn Reservations.csproj|solutionrelative:mssd 725 the maxie inn reservations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB4688A3-E82B-4F40-8FB6-87ED7EB7F768}|MSSD 725 The Maxie Inn Reservations\\MSSD 725 The Maxie Inn Reservations.csproj|c:\\users\\karen\\source\\repos\\sd 725-software design\\mssd 725 the maxie inn reservations\\mssd 725 the maxie inn reservations\\models\\dogreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BB4688A3-E82B-4F40-8FB6-87ED7EB7F768}|MSSD 725 The Maxie Inn Reservations\\MSSD 725 The Maxie Inn Reservations.csproj|C:\\Users\\karen\\source\\repos\\SD 725-Software Design\\MSSD 725 The Maxie Inn Reservations\\mssd 725 the maxie inn reservations\\models\\dogreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB4688A3-E82B-4F40-8FB6-87ED7EB7F768}|MSSD 725 The Maxie Inn Reservations\\MSSD 725 The Maxie Inn Reservations.csproj|solutionrelative:mssd 725 the maxie inn reservations\\models\\dogreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -34,8 +34,7 @@
               "RelativeToolTip": "MSSD 725 The Maxie Inn Reservations\\Models\\IDogReservation.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T19:46:21.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T19:46:21.135Z"
             },
             {
               "$type": "Document",
@@ -47,8 +46,7 @@
               "RelativeToolTip": "MSSD 725 The Maxie Inn Reservations\\Models\\DogReservation.cs",
               "ViewState": "AgIAADYAAAAAAAAAAAAUwEAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T21:40:26.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T21:40:26.597Z"
             },
             {
               "$type": "Document",
@@ -58,7 +56,7 @@
               "RelativeDocumentMoniker": "MSSD 725 The Maxie Inn Reservations\\Program.cs",
               "ToolTip": "C:\\Users\\karen\\source\\repos\\SD 725-Software Design\\MSSD 725 The Maxie Inn Reservations\\MSSD 725 The Maxie Inn Reservations\\Program.cs",
               "RelativeToolTip": "MSSD 725 The Maxie Inn Reservations\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-06T21:38:14.176Z",
               "EditorCaption": ""
