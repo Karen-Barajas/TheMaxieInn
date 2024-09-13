@@ -36,7 +36,8 @@ namespace MSSD_725_The_Maxie_Inn_Reservations.Models
             return (CheckOutDate - CheckInDate).Days;
         }
          
-        private const int PricePerNight = 30;       
+        //Set price per night
+        private const int PricePerNight = 40;       
         
         public int CalculateTotalCost()
         {
@@ -45,22 +46,10 @@ namespace MSSD_725_The_Maxie_Inn_Reservations.Models
             return totalCost;
         }        
 
-        //Print properties method
-        public virtual void PrintProperties() 
-        {
-            Console.WriteLine("Reservation Details:");
-            Console.WriteLine($"Owner Name: {OwnerName}");
-            Console.WriteLine($"Dog Name: {DogName}");
-            Console.WriteLine($"Check In Date: {CheckInDate.ToShortDateString()}");
-            Console.WriteLine($"Check Out Date: {CheckOutDate.ToShortDateString()}");
-            Console.WriteLine($"Owner's Email: {Email}");
-            Console.WriteLine($"Owner's Phone Number: {PhoneNumber}");
-        }
-
         //Display confirmation of reservation
         public virtual void Confirmation()
         {
-            Console.WriteLine($"\nThank you, {OwnerName} for your reservation for {DogName} at The Maxie Inn. You have booked a stay at The Maxie Inn from {CheckInDate.ToShortDateString()} to {CheckOutDate.ToShortDateString()}. A confirmation email will be sent to {Email} soon. We are looking forward to {DogName}'s stay with us!");
+            Console.WriteLine($"\nThank you, {OwnerName} for your reservation for {DogName} at The Maxie Inn. You have booked a stay at The Maxie Inn from {CheckInDate.ToShortDateString()} to {CheckOutDate.ToShortDateString()}. A confirmation email will be sent to {Email} soon. A call will be made to your number, {PhoneNumber}, for additional information. We are looking forward to {DogName}'s stay with us!");
         }
     }
 
@@ -81,20 +70,6 @@ namespace MSSD_725_The_Maxie_Inn_Reservations.Models
             Sex = sex;
             Weight = weight;  
             SpayedOrNeutred = spayedOrNeutred;
-        }
-
-        //Print properties method
-        public override void PrintProperties()
-        {
-            base.PrintProperties();
-            Console.WriteLine("\nAdditional Dog Information Provided:");            
-            Console.WriteLine($"Dog's Name: {DogName}");
-            Console.WriteLine($"Dog's Date of Birth: {DateOfBirth.ToShortDateString()}");
-            Console.WriteLine($"Dog's Age: {Age}");
-            Console.WriteLine($"Dog's Breed: {Breed}");
-            Console.WriteLine($"Dog's Sex: {Sex}");
-            Console.WriteLine($"Dog's Weight: {Weight}");
-            Console.WriteLine($"Is Dog Spayed or Neutred? {SpayedOrNeutred}");
         }
     }   
 }
